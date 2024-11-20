@@ -36,7 +36,7 @@ print("Dot product:", result)
 ---
 ## Here is a diagram elaborating the mathematical equation graphically.
 
-![vector dot product](dot_product.png)
+![vector dot product](dotproduct.png)
 
 [^1]: This image has been taken from `cuemath.com`.
 
