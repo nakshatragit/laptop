@@ -60,6 +60,7 @@ GIT COMMIT
 
 > [!TIP]
 > Sometimes such critical information may lead to end of the world, so use it responsively.
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -73,4 +74,4 @@ GIT COMMIT
 
 
 Search at youtube [youtubewebsite](https://www.youtube.com/)
-@octocat :tada: ALL DONE 
+-:tada: ALL DONE 
