@@ -20,17 +20,17 @@ $$\[
 Below is a snippet of the implementation in Python:  
 
 Here is a list of all what has been included in this readme file:
-- [x]Headings
-- [x]Styling
-- [x]Quoting text
-- [x]Links
-- [x]Images
-- [x]Lists (along with task lists)
-- [x]Footnotes
-- [x]Alerts
-- [x]Tables
-- [x]Code
-- [x]Mathematical Expressions
+- [x] Headings
+- [x] Styling
+- [x] Quoting text
+- [x] Links
+- [x] Images
+- [x] Lists (along with task lists)
+- [x] Footnotes
+- [x] Alerts
+- [x] Tables
+- [x] Code
+- [x] Mathematical Expressions
 
 
 ```python
@@ -60,7 +60,7 @@ GIT COMMIT
 
 > [!TIP]
 > Sometimes such critical information may lead to end of the world, so use it responsively.
-> > [!NOTE]
+> [!NOTE]
 > Useful information that users should know, even when skimming content.
 
 
@@ -72,5 +72,5 @@ GIT COMMIT
 
 
 
-Search at youtube [byjuwebsite](https://www.youtube.com/)
-@octocat :+1: ALL DONE 
+Search at youtube [youtubewebsite](https://www.youtube.com/)
+@octocat :tada: ALL DONE 
