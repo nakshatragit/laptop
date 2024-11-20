@@ -1,4 +1,4 @@
-###_MY CODE_ 
+### _MY CODE_ 
 ## _NAKSHATRA BANSAL_
 #**Vector Dot Product Implementation**
 
@@ -72,5 +72,5 @@ GIT COMMIT
 
 
 
-Search at youtube [Byju's website](https://www.youtube.com/)
-@octocat :+1 ALL DONE 
+Search at youtube [byjuwebsite](https://www.youtube.com/)
+@octocat :+1: ALL DONE 
