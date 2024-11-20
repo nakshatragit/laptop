@@ -66,12 +66,11 @@ GIT COMMIT
 
 
 | version of algorithm       | time complexity          | space complexity  |
-| ------------- :|-------------:| -----:|
+| ------------- |:-------------:| -----:|
 | version 1      | O($n^2$) | O($n^2$) |
 | version 2     | O($n^2$)     |  O(nlogn) |
 | version 3 | O(nlogn)      |    O($n^2$) |
 
 
-
 Search at youtube [youtubewebsite](https://www.youtube.com/)
--:tada: ALL DONE 
+:tada: ALL DONE 
